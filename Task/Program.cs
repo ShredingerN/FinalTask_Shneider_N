@@ -44,7 +44,7 @@ void Print1DArr(string[] arr)
 {
     if(arr.Length == 0)
 	{
-	    Console.WriteLine("[No such elements]");
+	    Console.WriteLine("[Array is empty]");
     }
     else
     {
